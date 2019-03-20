@@ -1,0 +1,4 @@
+node_modules
+/output/index.js*
+/npm-debug.log
+README.md
